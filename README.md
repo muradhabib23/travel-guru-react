@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Travel Guru: https://travel-guru-coolwave23.web.app/
+
+•	Built single page responsive travel website
+•	Shows logged in user’s name on login button, used two types authentication, google and FB
+•	Booking button linked to booking page where installed calendar with checkin and checkout date
+
+Technology: React, React Router, Bootstrap, Material UI, Firebase, GitHub
+
+
 ## Available Scripts
 
 In the project directory, you can run:
